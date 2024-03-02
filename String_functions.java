@@ -36,5 +36,6 @@ public class String_functions {
         boolean eq = name.equals("Motassim");
         System.out.println("name = Motassim? "+eq);
         eq = name.equalsIgnoreCase("MoTasSIm");
+        sc.close();
     }
 }

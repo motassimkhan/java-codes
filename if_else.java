@@ -14,5 +14,6 @@ public class if_else {
         else {
             System.out.println("You are NOT eligible for voting!");
         }
+        sc.close();
     }
 }
