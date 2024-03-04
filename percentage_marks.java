@@ -22,5 +22,6 @@ public class percentage_marks {
         int total = (maths.obtained+chem.obtained+bio.obtained+english.obtained);
         int per = (total*100/400);
         System.out.println("Percentage marks: "+per);
+        sc.close();
     }    
 }
