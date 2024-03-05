@@ -19,20 +19,16 @@ Java is a versatile and widely-used programming language known for its simplicit
 This repository covers a wide range of Java programming concepts, including but not limited to:
 
 - Basic Syntax
-- Data Types and Variables
-- Control Structures (if-else, switch-case, loops)
-- Arrays and Collections
-- Object-Oriented Programming (Classes, Objects, Inheritance, Polymorphism, Encapsulation)
+- String Functions
+- String Tokenizer class
+- Array implementation
+- Collections (using list, set, Map and generics)
+- Packages and Interfaces
+- OOPs Concepts (Inheritance, Polymorphism, Encapsulation)
+- Method Overloading, Method Overriding
 - Exception Handling
-- File Handling
-- Multithreading
-- Generics
-- Lambda Expressions
-- Functional Interfaces
-- Java I/O
-- Networking
-- GUI Programming with Swing or JavaFX
-- Unit Testing with JUnit
+- Multithreading (using Thread class and Runnable interface, synchronization).
+- CASE STUDY: Develop a program to calculate SGPA & CGPA of a student and display the progress report.
 
 Each concept is accompanied by code examples and explanations to help you grasp the underlying principles effectively.
 
