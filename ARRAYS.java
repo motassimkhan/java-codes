@@ -1,4 +1,3 @@
-package com.company;
 
 public class ARRAYS {
     public static void main(String[] args) {
@@ -25,6 +24,15 @@ public class ARRAYS {
         int [] marks = {98, 45, 79, 99, 80};
 
         // marks[5] = 96; - throws an error
-        System.out.println(marks[4]);
+        // System.out.println("Size: "+marks.length+"\nArray elements:");
+        // for (int i = 0; i<marks.length;i++){
+        //     System.out.println(" "+marks[i]);
+        // }
+
+        // printing using for each loop
+        for (int element: marks){
+        System.out.println(" "+element);        
+        }
+        
     }
 }
