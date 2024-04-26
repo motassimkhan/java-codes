@@ -3,7 +3,6 @@ public class Multidimentional_Array {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int value;
-        int [] marks;
         //decleration of array
         int [][] array;
         // array = new datatype [rows][columns]
@@ -22,5 +21,6 @@ public class Multidimentional_Array {
             }
             System.out.print("\n");
         }
+        sc.close();
     }
 }
